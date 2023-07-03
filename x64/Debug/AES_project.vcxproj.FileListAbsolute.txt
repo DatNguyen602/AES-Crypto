@@ -1,0 +1,6 @@
+C:\Users\DatNguyen\source\repos\AES_project\AES_project\x64\Debug\AES_project.vcxproj.AssemblyReference.cache
+C:\Users\DatNguyen\source\repos\AES_project\AES_project\x64\Debug\AES_project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\DatNguyen\source\repos\AES_project\AES_project\x64\Debug\AES_project.vcxproj.ResolveComReference.cache
+C:\Users\DatNguyen\source\repos\AES_project\AES_project\x64\Debug\AESproject.MyForm.resources
+C:\Users\DatNguyen\source\repos\AES_project\AES_project\x64\Debug\AES_project.vcxproj.GenerateResource.cache
+C:\Users\DatNguyen\source\repos\AES_project\AES_project\x64\Debug\AES_project.vcxproj.CopyComplete
